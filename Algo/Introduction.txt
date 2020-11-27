@@ -1,0 +1,7 @@
+Put algo code inside this catalogue 3 times per week, and also personal explanation inside markdown files.
+Name rules: 
+"algo's fonctionnality"_"time".form for algo file.
+"algo's fonctionnality's explanation"_"time".mk for explanation file.
+Example:
+SchoolbagAlgo.201127.py
+SAexplanation.201127.mk
